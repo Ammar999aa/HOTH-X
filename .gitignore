@@ -10,6 +10,11 @@
 *.userosscache
 *.sln.docstates
 
+# Mac files
+.vscode
+.DS_Store
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -364,3 +369,4 @@ FodyWeavers.xsd
 *.sln
 *.vcxproj
 hoth/hoth.vcxproj.filters
+HOTH-X.vcxproj.filters
