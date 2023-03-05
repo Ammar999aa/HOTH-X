@@ -364,3 +364,4 @@ FodyWeavers.xsd
 *.sln
 *.vcxproj
 hoth/hoth.vcxproj.filters
+HOTH-X.vcxproj.filters
